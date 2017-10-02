@@ -23,6 +23,8 @@ hs_err_pid*
 
 # IDE specific directories
 .settings/
+.classpath
+.project
 
 # OSX specific files
 .DS_Store
